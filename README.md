@@ -13,5 +13,5 @@ Same process, but for Califonia:
 A regional comparison of the contagaion rate per capita for Coo Co IL, Kanawha Co WV, and Alameda county CA, against the same figure for USA:
 <img width="1174" alt="Screenshot 2023-02-23 at 12 20 16 PM" src="https://user-images.githubusercontent.com/91866163/221000113-5ae50f81-bd0a-4bfa-9ea1-106965fe7e7d.png">
 
-case reports for each region compared to population size:
+Case reports for each region compared to population size:
 <img width="1172" alt="Screenshot 2023-02-23 at 12 20 27 PM" src="https://user-images.githubusercontent.com/91866163/220996232-caa8e392-1b80-4052-870b-6a694abc3b0f.png">
