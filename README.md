@@ -10,7 +10,7 @@ This is the USA total over the full 3 years of covid, and then the three years s
 Same process, but for Califonia:
 <img width="1177" alt="Screenshot 2023-02-23 at 12 15 46 PM" src="https://user-images.githubusercontent.com/91866163/221000053-11de5cbb-ae92-4377-bb36-aa35c2e9dda3.png">
 
-A regional comparison of the contagaion rate per capita for Cook Co IL, Kanawha Co WV, and Alameda Co CA, against the same figure for USA:
+A regional comparison of the contagion rate per capita for Cook Co IL, Kanawha Co WV, and Alameda Co CA, against the same figure for USA:
 <img width="1174" alt="Screenshot 2023-02-23 at 12 20 16 PM" src="https://user-images.githubusercontent.com/91866163/221000113-5ae50f81-bd0a-4bfa-9ea1-106965fe7e7d.png">
 
 Case reports for each region compared to population size:
