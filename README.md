@@ -7,7 +7,7 @@ Also, since it is diffucult to compare California to West Virginia because of sh
 This is the USA total over the full 3 years of covid, and then the three years stacked to compare:
 <img width="1166" alt="Screenshot 2023-02-23 at 12 15 22 PM" src="https://user-images.githubusercontent.com/91866163/221000032-b42c25e3-186e-49a4-9da6-aab09279f358.png">
 
-Same process, but for Califonia:
+Same process, but for California:
 <img width="1177" alt="Screenshot 2023-02-23 at 12 15 46 PM" src="https://user-images.githubusercontent.com/91866163/221000053-11de5cbb-ae92-4377-bb36-aa35c2e9dda3.png">
 
 A regional comparison of the contagion rate per capita for Cook Co IL, Kanawha Co WV, and Alameda Co CA, against the same figure for USA:
