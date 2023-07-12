@@ -1,5 +1,15 @@
 # NYT_COV_visualize
 
+This project has been updated:
+
+The star_schema_build file was used to create the dataset for this tableau viz:
+
+https://public.tableau.com/app/profile/chris.kimmons/viz/CovidFinal_16872129154110/Dashboard1#1
+
+A full blog on it's creation is coming soon!
+
+---------
+
 With this project, I wanted to look at some covid statistics in a way that no one had presented them (that I had seen yet). My family is spead across the country, so I was curious about what case statistics looked like in each of our regions.  Also, while I included the 7 day average in my dataframe, I was more curious about how many people were portentially infectious at any given time.  I used a very large measure, two weeks, to make sure that any sign of the infection would have passed.  I then applied that to the rolling sum of new cases to see how many 'potentially contagious' cases were in the region.  
 
 Also, since it is diffucult to compare California to West Virginia because of sheer difference of size, per capita had to be the best way to compare the case rates.  I pulled population data from the census bureau, but I also designed a web scraper to scrape wikipedia tables for each states population. (the next step would be to apply the years estimated population to the data from the corresponding year, to increase accuracy.)
