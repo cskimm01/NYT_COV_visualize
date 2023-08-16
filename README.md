@@ -4,7 +4,7 @@ This project has been updated:
 
 The star_schema_build file was used to create the dataset for this tableau viz:
 
-https://public.tableau.com/app/profile/chris.kimmons/viz/NYTCovidDataAnalysis/ClicktoDrillDownMap
+https://public.tableau.com/app/profile/chris.kimmons/viz/NYTCovidMap/Dashboard1#1
 
 A full blog on it's creation is coming soon!
 
